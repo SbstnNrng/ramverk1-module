@@ -1,0 +1,32 @@
+{
+    "name" : "seb/weather",
+    "type": "library",
+    "description": "Anax module",
+    "keywords": ["weather"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian Noring",
+            "email": "seno19@student.bth.se",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "beta",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Anax\\": "src/",
+            "Seb\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.3",
+        "anax/commons": "^2.0.14"
+    },
+    "require-dev": {
+        "anax/anax-ramverk1-me": "^1.0.0",
+        "phpmetrics/phpmetrics": "^2",
+        "phpunit/phpunit": "^7",
+        "anax/anax": "^2.0.17"
+    }
+}
