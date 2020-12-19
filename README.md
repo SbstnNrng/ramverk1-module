@@ -15,17 +15,17 @@ run the following command
 
 run the following commands
 
-`rsync -av vendor/seno19/weather/config ./`
-`rsync -av vendor/seno19/weather/view ./`
-`rsync -av vendor/seno19/weather/src ./`
-`rsync -av vendor/seno19/weather/test ./`
+`rsync -av vendor/seno19/weather/config ./`  
+`rsync -av vendor/seno19/weather/view ./`  
+`rsync -av vendor/seno19/weather/src ./`  
+`rsync -av vendor/seno19/weather/test ./`  
 
 ### 3 API-keys:
 
 in `config/api/keys.php` add your api-keys
 
-you can find the keys here
-[ipstack](https://ipstack.com/)
+you can find the keys here  
+[ipstack](https://ipstack.com/)  
 [openweathermap](https://openweathermap.org/)
 
 ### 4 Navbar:
