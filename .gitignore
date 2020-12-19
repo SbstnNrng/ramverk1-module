@@ -1,4 +1,4 @@
-/config/api
 composer.lock
 /vendor
 /a
+/.bin
