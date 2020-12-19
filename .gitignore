@@ -1,1 +1,4 @@
 /config/api
+composer.lock
+/vendor
+/a
