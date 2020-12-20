@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/Skwoat/ramverk1-module.svg?branch=main)](https://travis-ci.org/Skwoat/ramverk1-module)  
+
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Skwoat/ramverk1-module/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/Skwoat/ramverk1-module/?branch=main)
+[![Code Coverage](https://scrutinizer-ci.com/g/Skwoat/ramverk1-module/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/Skwoat/ramverk1-module/?branch=main)
+[![Build Status](https://scrutinizer-ci.com/g/Skwoat/ramverk1-module/badges/build.png?b=main)](https://scrutinizer-ci.com/g/Skwoat/ramverk1-module/build-status/main)
+
 ### Weather module
 
 This module is meant to be used with the anax framework for php.
