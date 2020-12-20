@@ -18,6 +18,8 @@ run the following commands
 `rsync -av vendor/seno19/weather/config ./`  
 `rsync -av vendor/seno19/weather/view ./`  
 `rsync -av vendor/seno19/weather/src ./`  
+
+and if you want to run the tests run the following command
 `rsync -av vendor/seno19/weather/test ./`  
 
 ### 3 API-keys:
