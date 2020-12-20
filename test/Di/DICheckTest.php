@@ -18,8 +18,9 @@ class DICheckTest extends TestCase
 
         $di = new DIFactoryConfig();
         $di->loadServices(ANAX_INSTALL_PATH . "/config/di");
+        $di->loadServices(ANAX_INSTALL_PATH . "/test/config/di");
 
-        $di->get("cache")->setPath(ANAX_INSTALL_PATH . "/test/cache");
+        //$di->get("cache")->setPath(ANAX_INSTALL_PATH . "/test/cache");
 
         $this->di = $di;
     }
