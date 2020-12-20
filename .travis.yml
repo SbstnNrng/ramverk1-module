@@ -16,6 +16,10 @@ sudo: false
 git:
     submodules: false
 
+env:
+    global:
+        - XDEBUG_MODE=coverage
+
 before_script:
     - make install check
 

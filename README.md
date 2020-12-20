@@ -11,7 +11,7 @@ run the following command
 
 `composer require seno19/weather`
 
-### 2 Copy files: 
+### 2: Copy files
 
 run the following commands
 
@@ -22,7 +22,7 @@ run the following commands
 and if you want to run the tests run the following command
 `rsync -av vendor/seno19/weather/test ./`  
 
-### 3 API-keys:
+### 3: API-keys
 
 in `config/api/keys.php` add your api-keys
 
@@ -30,7 +30,7 @@ you can find the keys here
 [ipstack](https://ipstack.com/)  
 [openweathermap](https://openweathermap.org/)
 
-### 4 Navbar:
+### 4: Navbar
 
 in `config/navbar/header.php` add the following
 
